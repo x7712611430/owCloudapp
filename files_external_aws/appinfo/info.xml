@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<info>
+    <id>files_external_aws</id>
+    <name>Files External Aws</name>
+    <description>Files_external_aws</description>
+    <licence>AGPL</licence>
+    <author>simon</author>
+    <version>0.0.1</version>
+    <namespace>Files_External_Aws</namespace>
+    <category>other</category>
+    <dependencies>
+        <owncloud min-version="8.1" />
+    </dependencies>
+</info>
